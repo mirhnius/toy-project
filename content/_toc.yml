@@ -1,0 +1,6 @@
+format: jb-book
+root: 00-simple_markdown
+parts:
+  - caption: Ipynb
+    chapters:
+    - file: toy.ipynb
